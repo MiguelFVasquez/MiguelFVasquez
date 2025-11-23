@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy Juan Miguel<br>Soy estudiante de Ingeniería de Sistemas y Computación, 20 años de edad y una gran pasión por el desarrollo de software. Actualmente, estoy enfocando mi aprendizaje hacia temas como Spring Boot, Angular y React.
+¡Hola! Soy Juan Miguel<br>Soy estudiante de Ingeniería de Sistemas y Computación, 21 años de edad y una gran pasión por el desarrollo de software. Actualmente, estoy enfocando mi aprendizaje hacia temas como Spring Boot, Angular y React.
 https://juanm-florezv.netlify.app/
 
 ## 🌐 Socials:
