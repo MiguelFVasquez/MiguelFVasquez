@@ -65,8 +65,8 @@ Apasionado por construir software que resuelve problemas reales. Actualmente for
 ## 📊 GitHub Stats
  
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MiguelFVasquez&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelFVasquez&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-omega-weld-70.vercel.app/api?username=MiguelFVasquez&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-omega-weld-70.vercel.app/api/top-langs/?username=MiguelFVasquez&layout=compact&theme=tokyonight&hide_border=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelFVasquez&theme=tokyonight&hide_border=true" />
 </div>
 ---
