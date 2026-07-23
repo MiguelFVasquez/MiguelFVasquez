@@ -8,7 +8,6 @@ Apasionado por construir software que resuelve problemas reales. Actualmente for
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://juanm-florezv.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-miguel-florez-vasquez-962132248/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/miguee__f)
 
 </div>
 
@@ -69,7 +68,7 @@ Apasionado por construir software que resuelve problemas reales. Actualmente for
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MiguelFVasquez&layout=compact&theme=tokyonight&hide_border=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelFVasquez&theme=tokyonight&hide_border=true" />
 </div>
-
+---
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
