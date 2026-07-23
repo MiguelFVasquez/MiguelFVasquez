@@ -69,7 +69,7 @@ Apasionado por construir software que resuelve problemas reales. Actualmente for
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelFVasquez&theme=tokyonight&hide_border=true" />
 </div>
 ---
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
