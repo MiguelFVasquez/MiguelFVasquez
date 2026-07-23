@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola, soy Juan Miguel! 👋
+# ¡Hola, soy Juan Miguel!
 
 ### Data Engineer | Backend Developer | Python • SQL • PostgreSQL • ETL
 
@@ -65,8 +65,8 @@ Apasionado por construir software que resuelve problemas reales. Actualmente for
 ## 📊 GitHub Stats
  
 <div align="center">
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=MiguelFVasquez&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MiguelFVasquez&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-stats-extended-frontend-six-theta.vercel.app/api?username=MiguelFVasquez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-stats-extended-frontend-six-theta.vercel.app/api/top-langs/?username=MiguelFVasquez&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
 <img src="https://streak-stats.demolab.com/?user=MiguelFVasquez&theme=tokyonight&hide_border=true" />
 </div>
 
