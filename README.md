@@ -6,7 +6,7 @@
 
 Apasionado por construir software que resuelve problemas reales. Actualmente fortaleciendo mis habilidades en desarrollo web moderno, agentes e IA mientras exploro nuevas tecnologías.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://juanm-florezv.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://miguel-florez.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-miguel-florez-vasquez-962132248/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/miguee__f)
 
